@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 📫 How to reach me **rutikavhad27@gmail.com**
-- I am Working now  ** Online votting app  **
+- I am Working now  **  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
