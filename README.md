@@ -4,8 +4,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔐 Currently working on **Website Protection IDS / AI-powered WAF**  
-- 🌱 Exploring **secure systems, cloud deployment, and AI in cybersecurity**  
+- 🔐 Currently working :) 
+- 🌱 Exploring **secure systems, and AI in cybersecurity**  
 - 📫 Reach me at: **rutikavhad27@gmail.com**  
 - ⚡ Passionate about building **secure, scalable, and impactful solutions**  
 
